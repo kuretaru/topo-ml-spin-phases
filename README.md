@@ -18,6 +18,7 @@ The goal is to detect phase transitions in the **2D Ising Model** without using 
 
 ## 🖼 Visualization
 ![Phase separation via Topology](https://raw.githubusercontent.com/kuretaru/topo-ml-spin-phases/refs/heads/main/materials/Phase%20separation%20via%20Topology.png)
+
 The scatter plot clearly shows a topological gap between the ordered and disordered phases.
 
 ## 🚀 How to Run
