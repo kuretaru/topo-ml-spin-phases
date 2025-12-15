@@ -17,7 +17,7 @@ The goal is to detect phase transitions in the **2D Ising Model** without using 
 *   **Classification:** The Logistic Regression model achieved **100% accuracy** in distinguishing the phases based purely on topology.
 
 ## 🖼 Visualization
-![Phase separation vs Topology](https://raw.githubusercontent.com/kuretaru/topo-ml-spin-phases/main/materials/Phase%20separation%20vs%20Topology.png)
+![Phase separation via Topology](https://raw.githubusercontent.com/kuretaru/topo-ml-spin-phases/main/materials/Phase%20separation%20via%20Topology.png)
 The scatter plot clearly shows a topological gap between the ordered and disordered phases.
 
 ## 🚀 How to Run
