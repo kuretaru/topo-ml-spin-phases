@@ -21,6 +21,23 @@ The goal is to detect phase transitions in the **2D Ising Model** without using 
 
 The scatter plot clearly shows a topological gap between the ordered and disordered phases.
 
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kuretaru/topo-ml-spin-phases.git
+   cd topo-ml-spin-phases
+   ```
+
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## 🚀 How to Run
-1. Install dependencies: `pip install numpy matplotlib gudhi scikit-learn numba`
-2. Run the simulation and train the model via ipynb (src/main_analysis.ipynb).
+Simpky run the simulation and train the model via ipynb (src/main_analysis.ipynb).
