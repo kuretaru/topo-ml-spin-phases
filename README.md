@@ -22,5 +22,4 @@ The scatter plot clearly shows a topological gap between the ordered and disorde
 
 ## 🚀 How to Run
 1. Install dependencies: `pip install numpy matplotlib gudhi scikit-learn numba`
-2. Run the simulation: `python simulation.py`
-3. Train the model: `python train_model.py`
+2. Run the simulation and train the model via ipynb (src/main_analysis.ipynb).
