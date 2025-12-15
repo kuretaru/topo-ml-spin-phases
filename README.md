@@ -40,4 +40,4 @@ The scatter plot clearly shows a topological gap between the ordered and disorde
    pip install -r requirements.txt
    ```
 ## 🚀 How to Run
-Simpky run the simulation and train the model via ipynb (src/main_analysis.ipynb).
+Simply run the simulation and train the model via ipynb (src/main_analysis.ipynb).
